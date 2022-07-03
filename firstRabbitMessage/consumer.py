@@ -1,4 +1,3 @@
-from gc import callbacks
 import pika
 
 def on_message_received(ch, method, properties, body):
