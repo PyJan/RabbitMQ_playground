@@ -1,0 +1,2 @@
+multiple consumers which consume from one queue, prefetch_count=1 ensures fair distribution of tasks
+acknowledge manually
